@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html,css,js,python,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ID - tibadiyayash@gmail.com
--                        Contact - +91 8799441201
+-                        Contact Number - +91 8799441201
 
 <!---
 Yash-Tibadiya/Yash-Tibadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
