@@ -3,21 +3,15 @@
 - 👋 Hi, I’m @Yash-Tibadiya
 - 👀 I’m interested in Web devlopment 
 - 🌱 I’m currently learning html,css,js,python,java
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...ID - tibadiyayash@gmail.com
 
-
-<!---
-Yash-Tibadiya/Yash-Tibadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 📖 I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
 
 📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
 <div align="center">
-    <img width="50%" src="https://scontent.fstv5-1.fna.fbcdn.net/v/t39.30808-6/252658675_5270082466341335_2762734411958567636_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=110&ccb=1-7&_nc_sid=5b42c2&_nc_ohc=p-_CSIxjha8AX99i6Ig&_nc_ht=scontent.fstv5-1.fna&oh=00_AfAVG1dLnUpZg9IAZovTP77FzTJCzcXrKj1W7e398MV8dw&oe=658A983A">
+    <img width="65%" src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/quote2.jpeg">
 </div>
 
 <div>
