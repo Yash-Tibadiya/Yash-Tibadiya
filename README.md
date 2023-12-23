@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 📖 __Self-learning__ is one of the most important and enjoyable parts of my life ☺️ I soon found out that GitHub is such a good place for me to record my never-ending learning journey from a technophobe to a technophile 🔥 To me, it is my open learning journal where I can not only keep my notes and references while learning new technical stuff but also share them with others who may find them helpful 📔
 
 <div align="center">
-    <img width="60%" src="https://scontent.fstv5-1.fna.fbcdn.net/v/t39.30808-6/252658675_5270082466341335_2762734411958567636_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=110&ccb=1-7&_nc_sid=5b42c2&_nc_ohc=p-_CSIxjha8AX99i6Ig&_nc_ht=scontent.fstv5-1.fna&oh=00_AfAVG1dLnUpZg9IAZovTP77FzTJCzcXrKj1W7e398MV8dw&oe=658A983A">
+    <img width="50%" src="https://scontent.fstv5-1.fna.fbcdn.net/v/t39.30808-6/252658675_5270082466341335_2762734411958567636_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=110&ccb=1-7&_nc_sid=5b42c2&_nc_ohc=p-_CSIxjha8AX99i6Ig&_nc_ht=scontent.fstv5-1.fna&oh=00_AfAVG1dLnUpZg9IAZovTP77FzTJCzcXrKj1W7e398MV8dw&oe=658A983A">
 </div>
 
 <div>
