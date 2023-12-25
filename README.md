@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Yash-Tibadiya
 - 👀 I’m interested in Web devlopment 
-- 🌱 I’m currently learning html,css,js,python,java
+- 🌱 I’m currently learning js, python, java, Docker, AWS
 - 📫 How to reach me ...ID - tibadiyayash@gmail.com
 
 
@@ -14,45 +14,37 @@
     <img width="65%" src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/quote2.jpeg">
 </div>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
 
-## 🛠 Languages and Tools
-📖 I have been learning and exploring these following tools and languages
 
-<div align="center"> 
-    <code><a href="https://www.cplusplus.com/" title="C++" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></code>
-    <code><a href="https://git-scm.com/" title="Git" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-    <code><a href="https://www.java.com" title="Java" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></code>
-    <code><a href="https://www.mysql.com/" title="MySQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></code>
-    <code><a href="https://www.python.org" title="Python" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-    <code><a href="https://www.javascript.com/" title="JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/></a></code>
-    <code><a href="https://reactjs.org/" title="React" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" width="40" height="40"/></a></code>
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/></a></code>
-    <code><a href="https://getbootstrap.com/" title="Bootstrap" target="_blank"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/></a></code>
-    <code><a href="https://jupyter-notebook.readthedocs.io/en/stable/" title="Jupyter Notebook" target="_blank"><img src="https://avatars.githubusercontent.com/u/7388996?s=200&v=4" alt="jupyter" width="40" height="40"/></a></code>
-    <code><a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="40" height="40"/></a></code>
-    <code><a href="https://www.postman.com/" title="Postman" target="_blank"><img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" alt="postman" width="40" height="40"/></a></code>
-    <code><a href="https://www.docker.com//" title="Docker" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png?size=48" alt="docker" width="40" height="40"/></a></code>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h4 align="center">📖 I have been learning and exploring these following tools and languages</h4>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-## 📊 Stats
+<br/>
+<hr/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yash-Tibadiya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yash-Tibadiya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yash-Tibadiya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p>
+<br/><br/>
 
+<hr/>
 <!-- GitHub Activity Graph -->
 [![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yash-Tibadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yash-Tibadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
