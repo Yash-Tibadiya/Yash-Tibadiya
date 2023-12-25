@@ -14,6 +14,8 @@
     <img width="65%" src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/quote2.jpeg">
 </div>
 
+![snake gif](https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/output/github-contribution-grid-snake.gif)
+
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
