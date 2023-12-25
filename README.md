@@ -14,7 +14,7 @@
     <img width="65%" src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/quote2.jpeg">
 </div>
 
-![snake gif](https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
