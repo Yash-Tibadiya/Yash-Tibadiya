@@ -43,8 +43,26 @@
 <br/><br/>
 
 <hr/>
-<!-- GitHub Activity Graph -->
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph)
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yash-Tibadiya&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Yash-Tibadiya.Yash-Tibadiya)
+
+<!-- LeetCode Stats Card -->
+<!-- <p align="center">
+  <a href="https://leetcode.com/Yash-Tibadiya" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=Yash-Tibadiya&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+  </a>
+</p> -->
+
+<!--<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
+</p> -->
+
+<!-- GitHub Activity Graph -->
+[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph)
+
