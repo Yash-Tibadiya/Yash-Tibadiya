@@ -13,7 +13,10 @@
 <div align="center">
     <img width="65%" src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/quote2.jpeg">
 </div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
