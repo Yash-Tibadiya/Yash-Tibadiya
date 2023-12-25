@@ -68,6 +68,6 @@
 
 <hr/>
 
-   ![snake gif](https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/output/github-contribution-grid-snake.svg)
+   ![snake gif](https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/output/github-contribution-grid-snake.gif)
 
 <hr/>
