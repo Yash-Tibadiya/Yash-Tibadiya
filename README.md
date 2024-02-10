@@ -64,9 +64,9 @@
 </p> -->
 
 <!-- GitHub Activity Graph -->
-[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph)
+<!-- [![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph) -->
 
-<hr/>
+<!-- <hr/> -->
 
   <picture>
   <source
