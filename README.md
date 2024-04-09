@@ -71,7 +71,7 @@
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/docker/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/docker/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
