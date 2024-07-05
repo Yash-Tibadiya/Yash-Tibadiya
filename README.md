@@ -1,4 +1,10 @@
-# Hi there! Welcome to my GitHub Profile! ✨
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Yash!;&center=true&size=30">
+  </a>
+</h1>
+
 
 - 👋 Hi, I’m @Yash-Tibadiya
 - 👀 I’m interested in Web devlopment 
@@ -29,7 +35,19 @@
 </div>
 
 <br/>
-<hr/>
+
+<!-- deployment -->
+<h3 align="center">Deployment</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
+          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+        </picture>
+  </a>
+</p>
+<hr />
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -64,9 +82,9 @@
 </p> -->
 
 <!-- GitHub Activity Graph -->
-<!-- [![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph) -->
+[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph)
 
-<!-- <hr/> -->
+<hr/>
 
   <picture>
   <source
