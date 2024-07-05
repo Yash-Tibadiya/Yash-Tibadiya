@@ -49,18 +49,57 @@
 </p>
 <hr />
 
+<!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yash-Tibadiya&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Yash-Tibadiya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Yash-Tibadiya&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<br />
+<p align=center>
+<!-- first row -->
+  <div align=center>
+  <!-- streak stats -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=default&border=61dafb" />
+        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=default&border=61dafb" alt="Yash-Tibadiya's streak stats" />
+      </picture>
+    </a>
+  <!-- github stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" alt="Yash-Tibadiya's github stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- space -->
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+<!-- second row -->
+  <div align=center>
+  <!-- language stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" alt="Yash-Tibadiya's language stats" />
+      </picture>
+    </a>
+  </div>
+  <!-- spaces -->
+  <br />
+  <br />
+  <br />
+  <!-- contribution graph -->
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=react-dark" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Yash-Tibadiya's contribution graph" />
+    </picture>
+  </a>
+</p>
 
-<br/><br/>
-
-<hr/>
+<hr />
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Yash-Tibadiya.Yash-Tibadiya)
@@ -80,11 +119,6 @@
 <p align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p> -->
-
-<!-- GitHub Activity Graph -->
-[![Ginny's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=rogue)](https://github.com/Yash-Tibadiya/github-readme-activity-graph)
-
-<hr/>
 
   <picture>
   <source
