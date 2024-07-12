@@ -6,7 +6,6 @@
 </h1>
 
 
-
 - 👋 Hi, I’m @Yash-Tibadiya
 - 👀 I’m interested in Web devlopment 
 - 🌱 I’m currently learning js, python, java, Docker, AWS.
