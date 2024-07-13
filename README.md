@@ -25,7 +25,6 @@
 </div>
 
 
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <h4 align="center">📖 I have been learning and exploring these following tools and languages</h4>
 <br/>
