@@ -123,10 +123,9 @@
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
   />
-  <!-- srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/docker/github-contribution-grid-snake.svg"
+    srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
