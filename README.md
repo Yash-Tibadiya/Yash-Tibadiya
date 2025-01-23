@@ -54,7 +54,7 @@
   <div align=center>
   <!-- streak stats -->
      <a href="https://git.io/streak-stats">
-       <img src="https://streak-stats.demolab.com?user=Yash-Tibadiya&date_format=j%20M%5B%20Y%5D&card_width=390" alt="GitHub Streak" />
+       <img align="left" src="https://streak-stats.demolab.com?user=Yash-Tibadiya&date_format=j%20M%5B%20Y%5D&card_width=390" alt="GitHub Streak" />
      </a>
 <!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
