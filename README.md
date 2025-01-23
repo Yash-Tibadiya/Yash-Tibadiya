@@ -54,7 +54,7 @@
   <div align=center>
   <!-- streak stats -->
      <a href="https://git.io/streak-stats">
-       <img align="left" src="https://streak-stats.demolab.com?user=Yash-Tibadiya&date_format=j%20M%5B%20Y%5D&card_width=390" alt="GitHub Streak" />
+       <img src="https://streak-stats.demolab.com?user=Yash-Tibadiya&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
      </a>
 <!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
@@ -64,14 +64,14 @@
       </picture>
     </a> -->
   <!-- github stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" />
         <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" alt="Yash-Tibadiya's github stats" />
       </picture>
     </a>
-  </div>
+  </div> -->
   <!-- space -->
   <br /><br /><br /><br /><br /><br /><br /><br /><br />
 <!-- second row -->
