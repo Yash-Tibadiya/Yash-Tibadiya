@@ -53,13 +53,16 @@
 <!-- first row -->
   <div align=center>
   <!-- streak stats -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=Yash-Tibadiya&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri" alt="GitHub Streak" />
+    </a>
+<!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=default&border=61dafb" />
         <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=default&border=61dafb" alt="Yash-Tibadiya's streak stats" />
       </picture>
-    </a>
+    </a> -->
   <!-- github stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
