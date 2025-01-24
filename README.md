@@ -6,7 +6,7 @@
 </h1>
 
 - 👋 Hi, I’m @Yash-Tibadiya
-- 👀 I’m interested in Web devlopment 
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning next.js, Docker, AWS.
 - 📫 How to reach me - tibadiyayash@gmail.com
 
