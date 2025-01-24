@@ -73,7 +73,8 @@
     </a>
   </div> -->
   <!-- space -->
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <br /><br /><br />
+<!--     <br /><br /><br /><br /><br /><br /> -->
 <!-- second row -->
   <div align=center>
   <!-- language stats -->
