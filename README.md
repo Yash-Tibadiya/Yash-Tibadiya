@@ -120,7 +120,8 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p> -->
 
-  <picture>
+<!-- snk -->
+<!-- <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
@@ -132,6 +133,21 @@
   <img
     alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/Yash-Tibadiya/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture> -->
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Yash-Tibadiya/Yash-Tibadiya/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
