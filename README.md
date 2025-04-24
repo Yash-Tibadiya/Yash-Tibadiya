@@ -7,7 +7,7 @@
 
 - 👋 Hi, I’m @Yash-Tibadiya
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning next.js, Docker, AWS.
+- 🌱 I’m currently learning Devops.
 - 📫 How to reach me - tibadiyayash@gmail.com
 
 📖 I _enjoy_ learning new technologies and new programming languages by making something from scratch step by step as well as working on real-world projects as part of my day-to-day job 🛠
