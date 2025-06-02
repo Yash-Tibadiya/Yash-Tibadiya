@@ -25,21 +25,30 @@
 <h4 align="center">📖 I have been learning and exploring these following tools and languages</h4>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,tailwind,git,github,bitbucket,docker,kubernetes,nginx,figma,ai" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,jquery,threejs,python,java,graphql,html,css,kafka,gcp,postman,wordpress" /><br>
 </div>
 
 <br/>
+
+<!-- deployment -->
+<h3 align="center">Database</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+      <picture>
+        <img src='https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb,firebase,prisma' alt="database" />
+      </picture>
+  </a>
+</p>
+
 
 <!-- deployment -->
 <h3 align="center">Deployment</h3>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
-        </picture>
+        <img src='https://skillicons.dev/icons?i=aws,vercel,cloudflare,netlify,supabase,planetscale,heroku' alt="deployment" />
+      </picture>
   </a>
 </p>
 <hr />
