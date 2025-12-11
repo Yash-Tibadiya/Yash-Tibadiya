@@ -6,7 +6,7 @@
 </h1>
 
 - 👋 Hi, I’m @Yash-Tibadiya
-- 👀 I’m interested in Web development 
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning Devops.
 - 📫 How to reach me - tibadiyayash@gmail.com
 
@@ -19,7 +19,6 @@
 <div>
   <p align="center" style="font-size: 2.5rem">🍀🍀🍀<p>
 </div>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <h4 align="center">📖 I have been learning and exploring these following tools and languages</h4>
@@ -40,7 +39,6 @@
       </picture>
   </a>
 </p>
-
 
 <!-- deployment -->
 <h3 align="center">Deployment</h3>
@@ -64,40 +62,22 @@
        <img src="https://github-readme-streak-stats-lemon-nu.vercel.app?user=Yash-Tibadiya&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
      </a>
     
-<!--     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+  <br /><br /><br />
+
+<!-- second row -->
+  <!-- language stats -->
+  <!-- <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=default&border=61dafb" alt="Yash-Tibadiya's streak stats" />
-      </picture>
-    </a> -->
-  <!-- github stats -->
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" alt="Yash-Tibadiya's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" alt="Yash-Tibadiya's language stats" />
       </picture>
     </a>
   </div> -->
-  <!-- space -->
-  <br /><br /><br />
-<!--     <br /><br /><br /><br /><br /><br /> -->
-<!-- second row -->
-  <div align=center>
-  <!-- language stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" alt="Yash-Tibadiya's language stats" />
-      </picture>
-    </a>
-  </div>
-  <!-- spaces -->
-  <br />
-  <br />
-  <br />
+
+  <!-- <br /><br /><br /> -->
+  
   <!-- contribution graph -->
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
@@ -111,38 +91,6 @@
 <hr />
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Yash-Tibadiya.Yash-Tibadiya)
-
-<!-- LeetCode Stats Card -->
-<!-- <p align="center">
-  <a href="https://leetcode.com/Yash-Tibadiya" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=Yash-Tibadiya&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
-  </a>
-</p> -->
-
-<!--<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
-</p>
-
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-</p> -->
-
-<!-- snk -->
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/Yash-Tibadiya/Yash-Tibadiya/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Yash-Tibadiya/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture> -->
 
 <picture>
   <source
