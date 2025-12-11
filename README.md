@@ -74,9 +74,9 @@
   <!-- github stats -->
 <!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=react&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" alt="Yash-Tibadiya's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=react&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" />
+        <img align="right" width=390 src="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&theme=default&border_color=61dafb" alt="Yash-Tibadiya's github stats" />
       </picture>
     </a>
   </div> -->
@@ -88,9 +88,9 @@
   <!-- language stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" />
-        <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" alt="Yash-Tibadiya's language stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" />
+        <img align="center" width=325 src="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" alt="Yash-Tibadiya's language stats" />
       </picture>
     </a>
   </div>
@@ -120,8 +120,8 @@
 </p> -->
 
 <!--<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yash-Tibadiya&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+  <img width="48%" src="https://github-readme-streak-stats-lemon-nu.vercel.app/api?username=Yash-Tibadiya&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <img width="40%" src="https://github-readme-streak-stats-lemon-nu.vercel.app/api/top-langs/?username=Yash-Tibadiya&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
 </p>
 
 <p align="center">
