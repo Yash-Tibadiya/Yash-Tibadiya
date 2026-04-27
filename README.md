@@ -58,7 +58,7 @@
 <!-- first row -->
   <div align=center>
   <!-- streak stats -->
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-lemon-nu.vercel.app?user=Yash-Tibadiya&theme=react&hide_border=true" alt="GitHub Streak" /></a>
+    <a href="https://github.com/Yash-Tibadiya"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=Yash-Tibadiya&theme=react&hide_border=true" alt="GitHub Streak" /></a>
     
   <br /><br /><br />
 
