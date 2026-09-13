@@ -64,7 +64,7 @@
 
 <!-- second row -->
   <!-- language stats -->
-  <div align=center>
+  <!-- <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&theme=react&layout=compact&border_color=61dafb&hide_border=true" />
@@ -72,18 +72,18 @@
         <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Tibadiya&langs_count=8&layout=compact&border_color=61dafb" alt="Yash-Tibadiya's language stats" />
       </picture>
     </a>
-  </div>
+  </div> 
 
-  <br /><br /><br />
+  <br /><br /><br /> -->
   
   <!-- contribution graph -->
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
+  <!-- <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-Tibadiya&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Yash-Tibadiya's contribution graph" />
     </picture>
-  </a>
+  </a> -->
 </p>
 
 <hr />
